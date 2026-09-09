@@ -13,7 +13,7 @@ INSERT INTO customer
 (Customer_ID, Customer_Name, Email, Phone, Address, City, Registration_Date)
 VALUES
 (1, 'srinika', 'srinika@gmail.com', '9486917444', 'Main Road', 'Karur', '2026-01-10'),
-(2, 'karthikeyan', 'karthikeyan@gmail.com', '9003431011', 'Gandhi Nagar', 'Coimbatore', '2026-01-12'),
+(2, 'priya', 'priya@gmail.com', '9003431011', 'Gandhi Nagar', 'Coimbatore', '2026-01-12'),
 (3, 'Anu', 'anu@gmail.com', '9876543212', 'Anna Nagar', 'Chennai', '2026-01-15'),
 (4, 'Kavya', 'kavya@gmail.com', '9876543213', 'MG Road', 'Madurai', '2026-01-18'),
 (5, 'Keerthana', 'keerthana@gmail.com', '9876543214', 'Bus Stand Road', 'Salem', '2026-01-20'),
